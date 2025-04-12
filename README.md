@@ -4,7 +4,7 @@ Previous school assignment: using heuristic search to find the optimal path for 
 
 Code performance:
 
-
+![code performance](https://github.com/Xinsssss/Heuristic-Search/blob/main/code_performance.png)
 
 
 
